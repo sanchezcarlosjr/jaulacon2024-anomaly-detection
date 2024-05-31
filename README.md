@@ -49,6 +49,13 @@
 
 References: https://timeseriesclassification.com/dataset.php
 
+### Useful References for Fraud Detection
+
+| Title                               | Description                                                                 | Link                                                                 |
+|-------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Fraud Detection Handbook            | Comprehensive guide covering various techniques and methods for fraud detection. | [Fraud Detection Handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html) |
+
+
 
 ## Usage
 1. Clone the repository.
