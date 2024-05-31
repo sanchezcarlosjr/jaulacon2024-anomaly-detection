@@ -10,6 +10,7 @@
 | Kats     | A toolkit by Facebook for analyzing time series data. It includes modules for forecasting, detection, and classification. | `pip install kats`      | [Kats Documentation](https://facebookresearch.github.io/Kats/) |
 | PyCaret  | An open-source, low-code machine learning library that simplifies the process of training and deploying models, including those for time series classification. | `pip install pycaret`   | [PyCaret Documentation](https://pycaret.org/)              |
 | tsai     | A state-of-the-art deep learning library for time series and sequential data, built on top of fastai and PyTorch. | `pip install tsai`      | [tsai Documentation](https://timeseriesai.github.io/tsai/) |
+| aeon     | A library providing tools for time series classification, regression, clustering, and forecasting, supporting various machine learning models. | `pip install aeon-ml`   | [aeon Documentation](https://aeon.readthedocs.io/en/latest/) |
 
 
 
