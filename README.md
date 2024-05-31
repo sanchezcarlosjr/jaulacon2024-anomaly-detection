@@ -54,10 +54,6 @@ References: https://timeseriesclassification.com/dataset.php
 | Title                               | Description                                                                 | Link                                                                 |
 |-------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
 | Fraud Detection Handbook            | Comprehensive guide covering various techniques and methods for fraud detection. | [Fraud Detection Handbook](https://fraud-detection-handbook.github.io/fraud-detection-handbook/Foreword.html) |
-| Credit Card Fraud Detection: A Real World Example | A practical example of credit card fraud detection using machine learning.  | [Credit Card Fraud Detection Example](https://towardsdatascience.com/credit-card-fraud-detection-using-machine-learning-eb7b9d3d5e30) |
-| Machine Learning for Fraud Detection | Detailed article on applying machine learning techniques to fraud detection problems. | [Machine Learning for Fraud Detection](https://www.datacamp.com/community/tutorials/machine-learning-fraud-detection) |
-| Anomaly Detection for Fraud Prevention | Discusses anomaly detection techniques specific to fraud prevention.        | [Anomaly Detection for Fraud Prevention](https://www.kdnuggets.com/2019/07/anomaly-detection-fraud-prevention.html) |
-| Detecting Financial Fraud with Python | Guide to detecting financial fraud using Python libraries and tools.        | [Detecting Financial Fraud with Python](https://realpython.com/python-finance-part-3/) |
 
 
 
